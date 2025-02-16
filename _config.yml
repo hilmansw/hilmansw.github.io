@@ -36,7 +36,7 @@ author:
   googlescholar    : "https://scholar.google.co.id/citations?user=SIGJR14AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9486-9601"
-  semantic         : "https://www.semanticscholar.org/author/Hilman-Singgih-Wicaksana/2037121649"
+  semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Hilman-Singgih-Wicaksana"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=59119996200"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "hilmansw"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
