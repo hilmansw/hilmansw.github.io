@@ -2,7 +2,7 @@
 title: "Determining community happiness index with transformers and attention-based deep learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/determining-community-happiness-index-with-transformers-and-attention-based-deep-learning
 excerpt: 'Deep Learning'
 date: 2023-09-29
 venue: 'IAES International Journal of Artificial Intelligence (IJ-AI)'
