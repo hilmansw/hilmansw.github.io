@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Information Technology Teacher"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Vocational High School course"
+permalink: /teaching/vhs-course
+venue: "Telkom Vocational High School Purwokerto"
+date: 2020-07-13
+location: "Purwokerto, Indonesia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching experience in Computer Network Engineering and Software Engineering at Telkom Vocational High School Purwokerto from July 2020 to June 2022.
