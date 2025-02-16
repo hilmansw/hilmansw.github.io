@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Informatics at Karya Husada University Semarang, Indonesia. Previously, I was a Teacher in the Department of Information Technology at the Telkom Vocational High School Purwokerto, where I also completed my Bachelor Degree of Computer Science (B.Cs). After I have teaching experience, I obtained Master Degree (M.Cs) from the Postgraduate Studies, Universitas Diponegoro, Indonesia. In the past, I had several academic and non-academic achievements in Informatics and Information System.
+I am a Lecturer in Informatics at Karya Husada University Semarang, Indonesia. Previously, I was a Teacher in the Department of Information Technology at the Telkom Vocational High School Purwokerto, where I also completed my Bachelor Degree of Computer Science (B.Cs). After I have teaching experience, I obtained Master Degree of Computer Science (M.Cs) from the Postgraduate Studies, Universitas Diponegoro, Indonesia. In the past, I had several academic and non-academic achievements in Informatics and Information System.
 
 Research Interest
 ======
