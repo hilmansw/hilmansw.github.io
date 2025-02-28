@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/alumni-berbagi-become-a-professional-intern
 venue: "SMK Telkom Purwokerto"
-date: 2022-07-01
+date: 2022-07-19
 location: "Purwokerto, Central Java, Indonesia"
 ---
 
