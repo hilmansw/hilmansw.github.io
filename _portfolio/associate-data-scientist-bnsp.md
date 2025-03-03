@@ -1,5 +1,5 @@
 ---
-title: "Associate Data Scentist (Certified by BNSP)"
+title: "Certified of Associate Data Scentist"
 excerpt: "Grade: COMPETENT"
 collection: portfolio
 ---
