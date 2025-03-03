@@ -1,0 +1,9 @@
+---
+title: "Associate Data Scentist (Certified by BNSP)"
+excerpt: "Grade: COMPETENT"
+collection: portfolio
+---
+
+Certified by Badan Nasional Sertifikasi Profesi (BNSP) in 2025.
+<br/>
+<i>The certificate is being processed by BNSP.</i>
