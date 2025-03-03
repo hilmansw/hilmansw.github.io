@@ -4,6 +4,6 @@ excerpt: "Score: 81/100"
 collection: portfolio
 ---
 
-Certified by MikroTik.
+Internationally certified by MikroTik.
 <br/>
 <img src='/images/mtcna.png'>
