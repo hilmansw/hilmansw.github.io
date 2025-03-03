@@ -18,4 +18,4 @@ I am always open to collaborations with individuals from academia or industry an
 Recent News
 ======
 * February 2025. I am joining at Karya Husada University Semarang, Indonesia as a Lecturer in Informatics.
-* January 2025. I am international certified of MicroTik Certified Network Associate (MTCNA) from MikroTik.
+* January 2025. II am internationally certified by MicroTik Certified Network Associate (MTCNA) from MikroTik.
