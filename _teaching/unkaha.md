@@ -4,7 +4,7 @@ collection: teaching
 type: "Informatics coursework"
 permalink: /teaching/unkaha
 venue: "Karya Husada University"
-date: 2022-02-25
+date: 2025-02-25
 location: "Semarang, Indonesia"
 ---
 
