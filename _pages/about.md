@@ -13,7 +13,7 @@ Research Interest
 ======
 My main research interests revolve around the intersection of machine learning, deep learning, computational linguistics, computer vision, and artificial intelligence for social good. In addition, I also explore other scientific fields related to information technology such as computer networking, cybersecurity, and digital forensics.
 
-I am always open to collaborations with individuals from academia or industry and am actively seeking B.Cs students. Feel free to contact me via email!
+I am always open to collaborations with individuals from academia or industry and I am actively seeking B.Cs students. Feel free to contact me via email!
 
 Recent News
 ======
