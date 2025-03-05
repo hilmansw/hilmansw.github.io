@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/determining-community-happiness-index-with-transformers-and-attention-based-deep-learning
 excerpt: 'Scopus Q3'
-date: 2023-09-29
+date: 2024-06-01
 venue: 'IAES International Journal of Artificial Intelligence (IJ-AI)'
 paperurl: 'https://ijai.iaescore.com/index.php/IJAI/article/view/24030'
 citation: 'R. Jayanto, R. Kusumaningrum, and A. Wibowo, “Aspect-based sentiment analysis for hotel reviews using an improved model of long  short-term memory,” IAES International Journal of Artificial Intelligence (IJ-AI), vol. 13, no. 2,  p. 1753-1761, June 2024, doi: 10.26555/ijain.v8i3.691'
