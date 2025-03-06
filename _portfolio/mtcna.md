@@ -1,7 +1,7 @@
 ---
 title: "MikroTik Certified Network Associate"
 excerpt: "Grade: 81/100"
-collection: portfolio
+collection: certification
 ---
 
 Internationally certified by MikroTik in 2025.
