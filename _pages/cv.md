@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Cs in Information System, Diponegoro University, 2024
-* B.Cs in Informatics, Telkom University Purwokerto, 2016
+* M.Cs in Information System, Diponegoro University, 2022-2024
+* B.Cs in Informatics, Telkom University Purwokerto, 2016-2020
   
 Work experience
 ======
