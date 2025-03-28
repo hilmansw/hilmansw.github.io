@@ -32,7 +32,7 @@ Honors & Awards
 * <b>November 2021</b> : Alibaba Cloud AI Forward Awardee 2021
 * <b>November 2021</b> : Education Scholarship Awardee 2021 by Dicoding Indonesia
 * <b>Novmeber 2021</b> : Best Teacher in Student Achievement Development at Telkom Schools - Telkom Vocational High School Purwokerto
-* <b>February 2020</b> : The Best Judiciary in Informatics at Telkom University Purwokerto
+* <b>February 2020</b> : The Best Judiciary With Cumlaude in Informatics at Telkom University Purwokerto
 
 Competency Certification
 ======
