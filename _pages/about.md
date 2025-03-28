@@ -40,9 +40,3 @@ Competency Certification
 * <b>December 2024</b> : Fortinet Certified Associate Cybersecurity
 * <b>December 2024</b> : Fortinet Certified Fundamentals Cybersecurity
 * <b>December 2024</b> : Ruijie Certified Network Associate (Routing & Switching)
-
-News
-======
-* <b>March 2025</b> : I am officially a Certified Associate Data Scientist (CADS) by National Professional Certification Agency (Badan Nasional Sertifikasi Profesi or BNSP).
-* <b>February 2025</b> : I am joining at Karya Husada University Semarang, Indonesia as a Lecturer in Informatics.
-* <b>January 2025</b> : I am internationally certified by MicroTik Certified Network Associate (MTCNA) from MikroTik.
