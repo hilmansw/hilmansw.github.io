@@ -18,12 +18,10 @@ I am always open to collaborations with individuals from academia or industry an
 Honors & Awards
 ======
 * <b>April 2024</b> : Cumlaude Award Charter from Rector and Dean of Faculty at Diponegoro University
-* <b>August 2023</b> : Ruangguru Engineering Academy+ Scholarship Awardee
+* <b>August 2023</b> : Ruangguru Engineering Academy+ Scholarship Awardee in Mastering Artificial Intelligence Batch 1 program.
 * <b>June 2022</b> : 3rd Place in UI/UX Design AGATIS Competition (National Level) by HIMASIF University of Bengkulu
 * <b>June 2022</b> : Machine Learning Developer Middle Level IDCAMP 2022
 * <b>April 2022</b> : 2nd Runner Up VISION National Essay Competition
-* <b>March 2022</b> : Best Mentee Inspiring Generation 2.0
-* <b>March 2022</b> : Brand Ambassador Inspiring Generation 2.0
 * <b>January 2022</b> : Top 30 SejutaCita National Essay Competition
 * <b>December 2021</b> : Selected Delegates (Science and Technology Innovation Field)
 * <b>December 2021</b> : Top 10 Product Innovation: CodingAja
