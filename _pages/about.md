@@ -11,7 +11,7 @@ I am a Lecturer in Informatics at Karya Husada University Semarang, Indonesia. P
 
 Research Interest
 ======
-My main research interests revolve around the intersection of machine learning, deep learning, computational linguistics, computer vision, and artificial intelligence for social good. In addition, I also explore other scientific fields related to information technology such as computer networking, cybersecurity, and digital forensics.
+My main research interests revolve around the intersection of machine learning, deep learning, computational linguistics, computer vision, and artificial intelligence for social good. In addition, I also explore other scientific fields related to information technology such as user experience, computer networking, cybersecurity, and digital forensics.
 
 I am always open to collaborations with individuals from academia or industry and I am actively seeking B.Cs students. Feel free to contact me via email!
 
@@ -31,6 +31,8 @@ Honors & Awards
 * <b>November 2021</b> : 2nd Place in Fintech UI/UX Design by Giatinaja
 * <b>November 2021</b> : Alibaba Cloud AI Forward Awardee 2021
 * <b>November 2021</b> : Education Scholarship Awardee 2021 by Dicoding Indonesia
+* <b>Novmeber 2021</b> : Best Teacher in Student Achievement Development at Telkom Schools - Telkom Vocational High School Purwokerto
+* <b>February 2020</b> : The Best Judiciary in Informatics at Telkom University Purwokerto
 
 Competency Certification
 ======
