@@ -23,9 +23,8 @@ Honors & Awards
 * <b>June 2022</b> : Machine Learning Developer Middle Level IDCAMP 2022
 * <b>April 2022</b> : 2nd Runner Up VISION National Essay Competition
 * <b>January 2022</b> : Top 30 SejutaCita National Essay Competition
-* <b>December 2021</b> : Selected Delegates (Science and Technology Innovation Field)
-* <b>December 2021</b> : Top 10 Product Innovation: CodingAja
-* <b>December 2021</b> : Top Talent UI/UX Design Fundamentals
+* <b>December 2021</b> : Top 10 Product Innovation at Banyumas Regency
+* <b>December 2021</b> : Top Talent UI/UX Design Fundamentals by CAMP404
 * <b>November 2021</b> : 2nd Place in Fintech UI/UX Design by Giatinaja
 * <b>November 2021</b> : Alibaba Cloud AI Forward Awardee 2021
 * <b>November 2021</b> : Education Scholarship Awardee 2021 by Dicoding Indonesia
