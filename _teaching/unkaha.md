@@ -12,4 +12,5 @@ I am working on the Department of Informatics, Faculty of Law, Management, and I
 * Introduction of Computer Networking
 * Computer Organization and Architecture
 * Health Information Management
-* Mobile Programming
+* Software Engineering
+* Internet of Things
