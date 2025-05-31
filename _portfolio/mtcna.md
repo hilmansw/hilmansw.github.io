@@ -1,6 +1,6 @@
 ---
 title: "MikroTik Certified Network Associate"
-excerpt: "Grade: 81/100"
+excerpt: "Grade: COMPETENT (81/100)"
 collection: certification
 ---
 
