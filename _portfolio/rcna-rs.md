@@ -5,6 +5,6 @@ collection: certification
 ---
 
 Internationally certified by Ruijie in 2024.
-<br/>
+<br/><br/>
 <img src='/images/rcna-rs.jpg'>
 
