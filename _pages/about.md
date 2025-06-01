@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Informatics at Karya Husada University Semarang, Indonesia. Previously, I was a Teacher in the Department of Information Technology at the Telkom Vocational High School Purwokerto, where I also completed my Bachelor Degree of Computer Science in Informatics (B.Cs) at Telkom University Purwokerto. After I have teaching experience, I obtained Master Degree of Computer Science in Information System (M.Cs) at Diponegoro University, Indonesia. In the past, I had several academic and non-academic achievements in Informatics and Information System.
+Experienced Information Technology educator with a strong academic background and certified expertise in Data Science, Machine Learning, and Artificial Intelligence. Holds intellectual property rights in computer program-related fields and has published in reputable international journals. Committed to community service and advancing academic quality through ethical, adaptive, and innovative approaches.
 
 Research Interest
 ======
-My main research interests revolve around the intersection of machine learning, deep learning, computational linguistics, computer vision, and artificial intelligence for social good. In addition, I also explore other scientific fields related to information technology such as user experience, computer networking, cybersecurity, and digital forensics.
+My main research interests revolve around the intersection of Machine Learning, Deep Learning, Computational Linguistics, Computer Vision, and Artificial Intelligence for Social Good. In addition, I also explore other scientific fields related to information technology such as Human-Computer Interaction (HCI), especially in User Experience (UX).
 
-I am always open to collaborations with individuals from academia or industry and I am actively seeking B.Cs students. Feel free to contact me via email!
+I am very open to collaborating on research and projects related to Artificial Intelligence and Data Science with academics and industries in Indonesia and abroad. Feel free to contact me via email: singgih.hilman@gmail.com.
 
 Competency Certification
 ======
