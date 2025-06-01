@@ -5,5 +5,5 @@ collection: certification
 ---
 
 Internationally certified by MikroTik in 2025.
-<br/>
+<br/><br/>
 <img src='/images/mtcna.png'>
