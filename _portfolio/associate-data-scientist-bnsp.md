@@ -5,5 +5,5 @@ collection: certification
 ---
 
 Certified by Badan Nasional Sertifikasi Profesi (BNSP) in 2025.
-<br/>
+<br/><br/>
 <img src='/images/cads-bnsp.png'>
