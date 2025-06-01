@@ -5,5 +5,5 @@ collection: certification
 ---
 
 Internationally certified by Fortinet in 2024.
-<br/>
+<br/><br/>
 <img src='/images/fcac.png'>
