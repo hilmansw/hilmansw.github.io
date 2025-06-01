@@ -5,5 +5,5 @@ collection: certification
 ---
 
 Certified by Alibaba Cloud in 2025.
-<br/>
+<br/><br/>
 <img src='/images/alibaba-cloud-ml-specialty.png'>
