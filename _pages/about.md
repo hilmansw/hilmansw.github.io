@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Informatics at Karya Husada University Semarang, Indonesia. Previously, I was a Teacher in the Department of Information Technology at the Telkom Vocational High School Purwokerto, where I also completed my Bachelor Degree of Computer Science in Informatics (B.Cs) at Telkom University Purwokerto. After I have teaching experience, I obtained Master Degree of Computer Science in Information System (M.Cs) at Universitas Diponegoro, Indonesia. In the past, I had several academic and non-academic achievements in Informatics and Information System.
+I am a Lecturer in Informatics at Karya Husada University Semarang, Indonesia. Previously, I was a Teacher in the Department of Information Technology at the Telkom Vocational High School Purwokerto, where I also completed my Bachelor Degree of Computer Science in Informatics (B.Cs) at Telkom University Purwokerto. After I have teaching experience, I obtained Master Degree of Computer Science in Information System (M.Cs) at Diponegoro University, Indonesia. In the past, I had several academic and non-academic achievements in Informatics and Information System.
 
 Research Interest
 ======
@@ -33,6 +33,8 @@ Honors & Awards
 
 Competency Certification
 ======
+* <b>May 2025</b> : Certified of IT Specialist - Artificial Intelligence by Certiport - A Pearson VUE Business
+* <b>April 2025</b> : Certified of Machine Learning Specialty by Alibaba Cloud
 * <b>March 2025</b> : Certified Associate Data Scientist by BNSP
 * <b>January 2025</b> : MikroTik Certified Network Associate (MTCNA)
 * <b>December 2024</b> : Certified Developer Generative AI by Alibaba Cloud
