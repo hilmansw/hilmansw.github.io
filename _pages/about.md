@@ -15,6 +15,17 @@ My main research interests revolve around the intersection of machine learning, 
 
 I am always open to collaborations with individuals from academia or industry and I am actively seeking B.Cs students. Feel free to contact me via email!
 
+Competency Certification
+======
+* <b>May 2025</b> : Certified of IT Specialist - Artificial Intelligence by Certiport - A Pearson VUE Business
+* <b>April 2025</b> : Certified of Machine Learning Specialty by Alibaba Cloud
+* <b>March 2025</b> : Certified Associate Data Scientist by BNSP
+* <b>January 2025</b> : MikroTik Certified Network Associate (MTCNA)
+* <b>December 2024</b> : Certified Developer Generative AI by Alibaba Cloud
+* <b>December 2024</b> : Fortinet Certified Associate Cybersecurity
+* <b>December 2024</b> : Fortinet Certified Fundamentals Cybersecurity
+* <b>December 2024</b> : Ruijie Certified Network Associate (Routing & Switching)
+
 Honors & Awards
 ======
 * <b>April 2024</b> : Cumlaude Award Charter from Rector and Dean of Faculty at Diponegoro University
@@ -30,14 +41,3 @@ Honors & Awards
 * <b>November 2021</b> : Education Scholarship Awardee 2021 by Dicoding Indonesia
 * <b>November 2021</b> : The Best Teacher in Student Achievement Development at Telkom Schools - Telkom Vocational High School Purwokerto
 * <b>February 2020</b> : The Best Judiciary With Cumlaude in Informatics at Telkom University Purwokerto
-
-Competency Certification
-======
-* <b>May 2025</b> : Certified of IT Specialist - Artificial Intelligence by Certiport - A Pearson VUE Business
-* <b>April 2025</b> : Certified of Machine Learning Specialty by Alibaba Cloud
-* <b>March 2025</b> : Certified Associate Data Scientist by BNSP
-* <b>January 2025</b> : MikroTik Certified Network Associate (MTCNA)
-* <b>December 2024</b> : Certified Developer Generative AI by Alibaba Cloud
-* <b>December 2024</b> : Fortinet Certified Associate Cybersecurity
-* <b>December 2024</b> : Fortinet Certified Fundamentals Cybersecurity
-* <b>December 2024</b> : Ruijie Certified Network Associate (Routing & Switching)
