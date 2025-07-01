@@ -3,7 +3,7 @@ title: "Penerapan Word2Vec dan SVM dengan Hyperparameter Tuning untuk Deteksi Ph
 collection: publications
 category: manuscripts
 permalink: /publication/penerapan-word2vec-dan-svm-dengan-hyperparameter-tuning-untuk-deteksi-phishing
-excerpt: 'Scopus Q3'
+excerpt: 'Sinta 3'
 date: 2025-06-30
 venue: 'Jurnal Riset Komputer (JURIKOM)'
 paperurl: 'https://ejurnal.stmik-budidarma.ac.id/jurikom/article/view/8729'
