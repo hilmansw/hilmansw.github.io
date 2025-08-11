@@ -1,5 +1,5 @@
 ---
-title: "Certified Associate Data Scentist"
+title: "Certified Associate Data Scientist"
 excerpt: "Grade: COMPETENT"
 collection: certification
 ---
