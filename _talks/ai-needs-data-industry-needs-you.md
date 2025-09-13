@@ -10,6 +10,6 @@ location: "Online"
 
 I had the opportunity to be a speaker at a webinar on Data Science and Artificial Intelligence (AI), where data is the “fuel” of AI that can be used to make business decisions for an organization or company. This webinar was organized by Dunia Coding and attended by more than 100 participants from various backgrounds, ranging from students and academics to practitioners with backgrounds in computer science and other disciplines.
 
-<img src="/images/webinar-data-science.png" />
+<img src="/images/webinar-data-science.png" /><br/>
 <br/>
 <img src="/images/webinar-data-science-2.png" />
