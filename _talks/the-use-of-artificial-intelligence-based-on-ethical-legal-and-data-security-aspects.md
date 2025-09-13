@@ -2,7 +2,7 @@
 title: "The Use of Artificial Intelligence Based on Ethical, Legal, and Data Security Aspects"
 collection: community service
 type: "Community Services"
-permalink: /talks/pengabmas-artificial-intelligence
+permalink: /talks/the-use-of-artificial-intelligence-based-on-ethical-legal-and-data-security-aspects
 venue: "Universitas Karya Husada Semarang"
 date: 2025-07-15
 location: "Semarang City, Central Java, Indonesia"
