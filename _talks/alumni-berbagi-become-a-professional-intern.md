@@ -10,4 +10,4 @@ location: "Purwokerto, Central Java, Indonesia"
 
 I had the opportunity to share my knowledge with the students of SMK Telkom Purwokerto as an alumnus of SMK Telkom Purwokerto. I also shared my experiences during college, including my academic and non-academic achievements, my internship experiences, and my experiences working as a teacher at SMK Telkom Purwokerto.
 
-<img src="stematel-alumni-berbagi.jpg" />
+<img src="/images/stematel-alumni-berbagi.jpg" />
