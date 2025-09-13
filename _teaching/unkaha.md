@@ -14,3 +14,6 @@ I am working on the Department of Informatics, Faculty of Law, Management, and I
 * Health Information Management
 * Software Engineering
 * Internet of Things
+* Fundamentals of Data Communication and Networks
+* Computer
+* Data Analytics
