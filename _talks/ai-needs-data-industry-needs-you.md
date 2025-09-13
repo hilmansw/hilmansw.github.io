@@ -1,7 +1,7 @@
 ---
 title: "AI Needs Data, Industry Needs You: Opportunities & Data Science Skills in the Future"
-collection: community service
-type: "Community Services"
+collection: webinar
+type: "Webinar"
 permalink: /talks/ai-needs-data-industry-needs-you
 venue: "Google Meet"
 date: 2025-09-03
