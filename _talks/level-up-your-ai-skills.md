@@ -1,7 +1,7 @@
 ---
 title: "Level Up Your AI Skills: Practical Emotion Detection with Machine Learning in 2 Days"
-collection: webinar
-type: "Webinar"
+collection: workshop
+type: "Workshop"
 permalink: /talks/level-up-your-ai-skills
 venue: "Google Meet"
 date: 2025-09-03
