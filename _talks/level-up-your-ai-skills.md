@@ -4,7 +4,7 @@ collection: workshop
 type: "Workshop"
 permalink: /talks/level-up-your-ai-skills
 venue: "Google Meet"
-date: 2025-09-03
+date: 2025-10-03
 location: "Online"
 ---
 
