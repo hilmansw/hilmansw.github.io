@@ -9,11 +9,19 @@ location: "Semarang, Indonesia"
 ---
 
 I am working on the Department of Informatics, Faculty of Law, Management, and Informatics at Karya Husada University in the coursework of:
-* Introduction of Computer Networking
-* Computer Organization and Architecture
-* Health Information Management
-* Software Engineering
-* Internet of Things
-* Fundamentals of Data Communication and Networks
-* Computer
-* Data Analytics
+| Coursework                                      | Semester        |
+|-------------------------------------------------|-----------------|
+| Computer Architecture and Organization          | 2025/2026 Even  |
+| Introduction to Computer Networks               | 2025/2026 Even  |
+| Software Engineering                            | 2025/2026 Even  |
+| Data Mining Concept                             | 2025/2026 Even  |
+| Internet of Things                              | 2025/2026 Even  |
+| Platform-Based Programming                      | 2025/2026 Odd   |
+| Data Communication and Networking               | 2025/2026 Odd   |
+| Computer                                        | 2025/2026 Odd   |
+| Data Analytics                                  | 2025/2026 Odd   |
+| Computer Architecture and Organization          | 2024/2025 Even  |
+| Internet of Things                              | 2024/2025 Even  |
+| Information Management                          | 2024/2025 Even  |
+| Introduction to Computer Networks               | 2024/2025 Even  |
+| Software Engineering                            | 2024/2025 Even  |
