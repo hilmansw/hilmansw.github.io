@@ -6,7 +6,7 @@ permalink: /publication/penerapan-word2vec-dan-svm-dengan-hyperparameter-tuning-
 excerpt: 'SINTA 3'
 date: 2025-06-30
 venue: 'Jurnal Riset Komputer (JURIKOM)'
-paperurl: 'https://ejurnal.stmik-budidarma.ac.id/jurikom/article/view/8729'
+paperurl: 'https://ejurnal.stmik-budidarma.ac.id/index.php/jurikom/article/view/8729'
 citation: 'H. S. Wicaksana and K. Huda, “Penerapan Word2Vec dan SVM dengan Hyperparameter Tuning untuk Deteksi Phishing
 ,” Jurnal Riset Komputer (JURIKOM), vol. 12, no. 3,  p. 361-371, June 2025, doi: 10.30865/jurikom.v12i3.8729'
 ---
