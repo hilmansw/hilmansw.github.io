@@ -28,6 +28,7 @@ Competency Certification
 
 Honors & Awards
 ======
+* <b>January 2026</b> : IDCamp 2025 Intermediate Level Scholarship Recipients (AI Engineer)
 * <b>April 2024</b> : Cumlaude Award Charter from Rector and Dean of Faculty at Diponegoro University
 * <b>August 2023</b> : Ruangguru Engineering Academy+ Scholarship Awardee in Mastering Artificial Intelligence Batch 1 program.
 * <b>June 2022</b> : 3rd Place in UI/UX Design AGATIS Competition (National Level) by HIMASIF University of Bengkulu
