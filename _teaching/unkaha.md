@@ -9,6 +9,7 @@ location: "Semarang, Indonesia"
 ---
 
 I am working on the Department of Informatics, Faculty of Law, Management, and Informatics at Karya Husada University in the coursework of:
+
 | Coursework                                      | Semester        |
 |-------------------------------------------------|-----------------|
 | Computer Architecture and Organization          | 2025/2026 Even  |
