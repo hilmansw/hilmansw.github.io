@@ -28,6 +28,7 @@ Competency Certification
 
 Honors & Awards
 ======
+* <b>March 2026</b> : IDCamp 2025 Expert Level Scholarship Recipients (AI Engineer)
 * <b>January 2026</b> : IDCamp 2025 Intermediate Level Scholarship Recipients (AI Engineer)
 * <b>April 2024</b> : Cumlaude Award Charter from Rector and Dean of Faculty at Diponegoro University
 * <b>August 2023</b> : Ruangguru Engineering Academy+ Scholarship Awardee in Mastering Artificial Intelligence Batch 1 program.
