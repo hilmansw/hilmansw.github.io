@@ -28,8 +28,9 @@ Competency Certification
 
 Honors & Awards
 ======
-* <b>March 2026</b> : IDCamp 2025 Expert Level Scholarship Recipients (AI Engineer)
-* <b>January 2026</b> : IDCamp 2025 Intermediate Level Scholarship Recipients (AI Engineer)
+* <b>March 2026</b> : Expert Level Scholarship Recipients in AI Engineer by IDCamp (Indosat Ooredoo Hutchison)
+* <b>February 2026</b> : Coding Camp Progressive in AI Engineer by DBS Foundation 
+* <b>January 2026</b> : Expert Level Scholarship Recipients in AI Engineer by IDCamp (Indosat Ooredoo Hutchison)
 * <b>April 2024</b> : Cumlaude Award Charter from Rector and Dean of Faculty at Diponegoro University
 * <b>August 2023</b> : Ruangguru Engineering Academy+ Scholarship Awardee in Mastering Artificial Intelligence Batch 1 program.
 * <b>June 2022</b> : 3rd Place in UI/UX Design AGATIS Competition (National Level) by HIMASIF University of Bengkulu
