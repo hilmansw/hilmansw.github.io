@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/improved-text-classification-for-indonesian-hate-speech-detection-fasttext-lstm-model-with-easy-data-augmentation
 excerpt: 'SINTA 3'
-date: 2026-03-04
+date: 2026-03-31
 venue: 'Jurnal Sistem Komputer dan Informatika (JSON)'
 paperurl: 'https://ejurnal.stmik-budidarma.ac.id/index.php/JSON/article/view/9637'
 citation: 'Wicaksana, H. S., Huda, K., & Airlangga, G. (2026). Improved Text Classification for Indonesian Hate Speech Detection: FastText-LSTM Model with Easy Data Augmentation. Jurnal Sistem Komputer Dan Informatika (JSON), 7(3), 1074–1083. https://doi.org/10.30865/json.v7i3.9637'
