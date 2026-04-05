@@ -17,6 +17,8 @@ I am very open to collaborating on research and projects related to Artificial I
 
 Competency Certification
 ======
+* <b>February 2026</b> : Gemini Certified Educator by Google
+* <b>November 2025</b> : Quantum Machine Learning by IBM
 * <b>May 2025</b> : Certified of IT Specialist - Artificial Intelligence by Certiport - A Pearson VUE Business
 * <b>April 2025</b> : Certified of Machine Learning Specialty by Alibaba Cloud
 * <b>March 2025</b> : Certified Associate Data Scientist by BNSP
