@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Experienced Information Technology educator with a strong academic background and certified expertise in Data Science, Machine Learning, and Artificial Intelligence. Holds intellectual property rights in computer program-related fields and has published in reputable international journals. Committed to community service and advancing academic quality through ethical, adaptive, and innovative approaches.
+An Information Technology educator with a strong academic foundation and certified expertise in Data Science, Machine Learning, and Artificial Intelligence. Actively contributes as a speaker at national seminars and hands-on workshops, delivering practical perspectives that bridge theoretical concepts with real-world AI and data-driven applications. Holds intellectual property rights in computer program innovations and has published in reputable international journals. Committed to advancing academic excellence, fostering meaningful community engagement, and promoting ethical, adaptive, and innovation-driven approaches in education and research.
 
 Research Interest
 ======
-My main research interests revolve around the intersection of Machine Learning, Deep Learning, Computational Linguistics, Computer Vision, and Artificial Intelligence for Social Good. In addition, I also explore other scientific fields related to information technology such as Human-Computer Interaction (HCI), especially in User Experience (UX). 
+My primary research trajectory demonstrates a strong linearity in Artificial Intelligence, with focused contributions in Natural Language Processing, Information Security, and Information Systems. My work lies at the intersection of Machine Learning, Deep Learning, Computational Linguistics, and Computer Vision, with an emphasis on developing AI-driven solutions that deliver meaningful impact for social good. These research contributions have been validated through publications in reputable venues, including Scopus-indexed journals (Q2) as well as nationally accredited journals such as SINTA 2 and SINTA 3.
 
-I am very open to collaborating on research and projects related to Artificial Intelligence and Data Science with academics and industries in Indonesia and abroad. Feel free to contact me via email: singgih.hilman@gmail.com.
+I am open to research collaborations and strategic projects in Data Science and Artificial Intelligence with both academic institutions and industry partners, at national and international levels. I welcome opportunities to contribute to impactful, interdisciplinary work and innovation-driven initiatives. For potential collaborations, please feel free to reach out via email at: singgih.hilman@gmail.com.
 
 Competency Certification
 ======
