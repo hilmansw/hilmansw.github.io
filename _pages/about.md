@@ -11,14 +11,14 @@ Experienced Information Technology educator with a strong academic background an
 
 Research Interest
 ======
-My main research interests revolve around the intersection of Machine Learning, Deep Learning, Computational Linguistics, Computer Vision, and Artificial Intelligence for Social Good. In addition, I also explore other scientific fields related to information technology such as Human-Computer Interaction (HCI), especially in User Experience (UX).
+My main research interests revolve around the intersection of Machine Learning, Deep Learning, Computational Linguistics, Computer Vision, and Artificial Intelligence for Social Good. In addition, I also explore other scientific fields related to information technology such as Human-Computer Interaction (HCI), especially in User Experience (UX). 
 
 I am very open to collaborating on research and projects related to Artificial Intelligence and Data Science with academics and industries in Indonesia and abroad. Feel free to contact me via email: singgih.hilman@gmail.com.
 
 Competency Certification
 ======
 * <b>February 2026</b> : Gemini Certified Educator by Google
-* <b>November 2025</b> : Quantum Machine Learning by IBM
+* <b>November 2025</b> : Certified of Quantum Machine Learning by IBM
 * <b>May 2025</b> : Certified of IT Specialist - Artificial Intelligence by Certiport - A Pearson VUE Business
 * <b>April 2025</b> : Certified of Machine Learning Specialty by Alibaba Cloud
 * <b>March 2025</b> : Certified Associate Data Scientist by BNSP
