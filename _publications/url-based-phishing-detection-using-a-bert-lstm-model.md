@@ -7,7 +7,7 @@ excerpt: 'SINTA 2'
 date: 2026-04-03
 venue: 'Journal of Information Systems and Informatics (ISI)'
 paperurl: 'https://journal-isi.org/index.php/isi/article/view/1543'
-citation: 'H. S. Wicaksana, U. Ependi, and A. Muzakir, “URL-Based Phishing Detection Using a BERT-LSTM Model”, journalisi, vol. 8, no. 1, pp. 1344–1367, Apr. 2026, doi: 10.63158/journalisi.v8i1.1543.'
+citation: 'H. S. Wicaksana, U. Ependi, and A. Muzakir, “URL-Based Phishing Detection Using a BERT-LSTM Model”, Journal of Information Systems and Informatics (ISI), vol. 8, no. 1, pp. 1344–1367, Apr. 2026, doi: 10.63158/journalisi.v8i1.1543.'
 ---
 
 Abstract:
