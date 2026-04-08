@@ -11,7 +11,7 @@ An Information Technology educator with a strong academic foundation and certifi
 
 Research Interest
 ======
-My primary research trajectory demonstrates a strong linearity in Artificial Intelligence, with focused contributions in Natural Language Processing, Information Security, and Information Systems. My work lies at the intersection of Machine Learning, Deep Learning, Computational Linguistics, and Computer Vision, with an emphasis on developing AI-driven solutions that deliver meaningful impact for social good. These research contributions have been validated through publications in reputable venues, including Scopus-indexed journals (Q2) as well as nationally accredited journals such as SINTA 2 and SINTA 3.
+My primary research trajectory demonstrates a strong and consistent focus on Artificial Intelligence, with particular contributions in Natural Language Processing, Information Security, and Information Systems. My work is positioned at the intersection of Machine Learning, Deep Learning, and Computational Linguistics, with an emphasis on developing AI-driven solutions that generate meaningful impact for social good. These contributions have been validated through publications in reputable venues, including Scopus-indexed journals (Q2) as well as nationally accredited journals such as SINTA 2 and SINTA 3.
 
 I am open to research collaborations and strategic projects in Data Science and Artificial Intelligence with both academic institutions and industry partners, at national and international levels. I welcome opportunities to contribute to impactful, interdisciplinary work and innovation-driven initiatives. For potential collaborations, please feel free to reach out via email at: singgih.hilman@gmail.com.
 
