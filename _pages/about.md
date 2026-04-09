@@ -51,4 +51,4 @@ Collaboration Partners
 ======
 * <b>Bina Darma University Palembang</b> with the research title "URL-Based Phishing Detection Using the BERT-LSTM Model" published in SINTA 2 in 2026.
 * <b>Atma Jaya Catholic University Jakarta</b> with the research title "Improved Text Classification for Hate Speech Detection in Indonesia: FastText-LSTM Model with Easy Data Augmentation" published in SINTA 3 in 2026.
-* <b>Wahid Hasyim University Semarang</b> with the national seminar title "Multidisciplinary Synergy in Advancing the Modern Industrial Revolution" as a speaker with the topic raised "Industrial Digitalization, Artificial Intelligence, and Cybersecurity"
+* <b>Wahid Hasyim University Semarang</b> with the national seminar title "Multidisciplinary Synergy in Advancing the Modern Industrial Revolution" as a speaker with the topic raised "Industrial Digitalization, Artificial Intelligence, and Cybersecurity" in 2025.
