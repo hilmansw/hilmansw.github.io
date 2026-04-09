@@ -46,3 +46,9 @@ Honors & Awards
 * <b>November 2021</b> : Education Scholarship Awardee 2021 by Dicoding Indonesia
 * <b>November 2021</b> : The Best Teacher in Student Achievement Development at Telkom Schools - Telkom Vocational High School Purwokerto
 * <b>February 2020</b> : The Best Judiciary With Cumlaude in Informatics at Telkom University Purwokerto
+
+Collaboration Partners
+======
+* <b>Bina Darma University Palembang</b> with the research title "URL-Based Phishing Detection Using the BERT-LSTM Model" published in SINTA 2 in 2026.
+* <b>Atma Jaya Catholic University Jakarta</b> with the research title "Improved Text Classification for Hate Speech Detection in Indonesia: FastText-LSTM Model with Easy Data Augmentation" published in SINTA 3 in 2026.
+* <b>Wahid Hasyim University Semarang</b> with the national seminar title "Multidisciplinary Synergy in Advancing the Modern Industrial Revolution" as a speaker with the topic raised "Industrial Digitalization, Artificial Intelligence, and Cybersecurity"
