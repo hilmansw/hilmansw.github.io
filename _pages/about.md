@@ -51,8 +51,8 @@ My research focuses on Artificial Intelligence, with core contributions in Natur
 
 ## Collaboration Partners
 
-| Partner Institution                         | Collaboration / Contribution                                                                 | Output / Publication                  | Year |
-|--------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------|------|
-| Bina Darma University Palembang            | URL-Based Phishing Detection Using the BERT-LSTM Model                                       | SINTA 2 Journal                      | 2026 |
-| Atma Jaya Catholic University Jakarta      | Hate Speech Detection using FastText-LSTM with Easy Data Augmentation                        | SINTA 3 Journal                      | 2026 |
-| Wahid Hasyim University Semarang           | Speaker: Industrial Digitalization, Artificial Intelligence, and Cybersecurity                                    | National Seminar                     | 2025 |
+| Partner Institution                    | Collaboration / Contribution                                                     | Output / Publication | Year     |
+|----------------------------------------|----------------------------------------------------------------------------------|----------------------|----------|
+| Bina Darma University Palembang        | URL-Based Phishing Detection Using the BERT-LSTM Model                           | SINTA 2 Journal      | 2026     |
+| Atma Jaya Catholic University Jakarta  | Hate Speech Detection using FastText-LSTM with Easy Data Augmentation            | SINTA 3 Journal      | 2026     |
+| Wahid Hasyim University Semarang       | Speaker: Industrial Digitalization, Artificial Intelligence, and Cybersecurity   | National Seminar     | 2025     |
