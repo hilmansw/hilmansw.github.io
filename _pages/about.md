@@ -10,9 +10,11 @@ redirect_from:
 An Information Technology educator with a strong academic foundation and certified expertise in Data Science, Machine Learning, and Artificial Intelligence. Actively contributes as a speaker at national seminars and hands-on workshops, delivering practical perspectives that bridge theoretical concepts with real-world AI and data-driven applications. Holds intellectual property rights in computer program innovations and has published in reputable international journals. Committed to advancing academic excellence, fostering meaningful community engagement, and promoting ethical, adaptive, and innovation-driven approaches in education and research.
 
 ## Research Interest
+
 My research focuses on Artificial Intelligence, with core contributions in Natural Language Processing, Information Security, and Information Systems, positioned at the intersection of Machine Learning, Deep Learning, and Computational Linguistics. I emphasize the development of AI-driven solutions that deliver meaningful impact for social good. These contributions have been validated through publications in reputable venues, including Scopus-indexed journals (Q2) and nationally accredited journals (SINTA 2 and SINTA 3). I am open to research collaborations and strategic projects in Data Science and Artificial Intelligence with academic institutions and industry partners at both national and international levels. For collaboration inquiries, please contact: singgih.hilman@gmail.com.
 
 ## Competency Certification
+
 | Date            | Certification                                                                 | Issuer                                     |
 |-----------------|------------------------------------------------------------------------------|---------------------------------------------|
 | February 2026   | Gemini Certified Educator                                                    | Google                                      |
@@ -27,6 +29,7 @@ My research focuses on Artificial Intelligence, with core contributions in Natur
 | December 2024   | Ruijie Certified Network Associate (Routing & Switching)                     | Ruijie                                      |
 
 ## Honors & Awards
+
 | Date            | Award / Achievement                                                          | Organizer / Institution                     |
 |-----------------|------------------------------------------------------------------------------|---------------------------------------------|
 | March 2026      | Expert Level Scholarship Awardee in AI Engineer                              | IDCamp (Indosat Ooredoo Hutchison)          |
@@ -47,6 +50,7 @@ My research focuses on Artificial Intelligence, with core contributions in Natur
 | February 2020   | Best Judiciary with Cumlaude in Informatics                                  | Telkom University Purwokerto                |
 
 ## Collaboration Partners
+
 | Partner Institution                         | Collaboration / Contribution                                                                 | Output / Publication                  | Year |
 |--------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------|------|
 | Bina Darma University Palembang            | URL-Based Phishing Detection Using the BERT-LSTM Model                                       | SINTA 2 Journal                      | 2026 |
