@@ -17,38 +17,44 @@ I am open to research collaborations and strategic projects in Data Science and 
 
 Competency Certification
 ======
-* <b>February 2026</b> : Gemini Certified Educator by Google
-* <b>November 2025</b> : Certified of Quantum Machine Learning by IBM
-* <b>May 2025</b> : Certified of IT Specialist - Artificial Intelligence by Certiport - A Pearson VUE Business
-* <b>April 2025</b> : Certified of Machine Learning Specialty by Alibaba Cloud
-* <b>March 2025</b> : Certified Associate Data Scientist by BNSP
-* <b>January 2025</b> : MikroTik Certified Network Associate (MTCNA)
-* <b>December 2024</b> : Certified Developer Generative AI by Alibaba Cloud
-* <b>December 2024</b> : Fortinet Certified Associate Cybersecurity
-* <b>December 2024</b> : Fortinet Certified Fundamentals Cybersecurity
-* <b>December 2024</b> : Ruijie Certified Network Associate (Routing & Switching)
+| Date            | Certification                                                                 | Issuer                                     |
+|-----------------|------------------------------------------------------------------------------|---------------------------------------------|
+| February 2026   | Gemini Certified Educator                                                    | Google                                      |
+| November 2025   | Certified of Quantum Machine Learning                                        | IBM                                         |
+| May 2025        | IT Specialist - Artificial Intelligence                                      | Certiport - A Pearson VUE Business          |
+| April 2025      | Machine Learning Specialty                                                   | Alibaba Cloud                               |
+| March 2025      | Associate Data Scientist                                                     | BNSP                                        |
+| January 2025    | MikroTik Certified Network Associate (MTCNA)                                 | MikroTik                                    |
+| December 2024   | Developer Generative AI                                                      | Alibaba Cloud                               |
+| December 2024   | Fortinet Certified Associate Cybersecurity                                   | Fortinet                                    |
+| December 2024   | Fortinet Certified Fundamentals Cybersecurity                                | Fortinet                                    |
+| December 2024   | Ruijie Certified Network Associate (Routing & Switching)                     | Ruijie                                      |
 
 Honors & Awards
 ======
-* <b>March 2026</b> : Expert Level Scholarship Awardee in AI Engineer by IDCamp (Indosat Ooredoo Hutchison)
-* <b>February 2026</b> : Coding Camp Progressive in AI Engineer by DBS Foundation 
-* <b>January 2026</b> : Middle Level Scholarship Awardee in AI Engineer by IDCamp (Indosat Ooredoo Hutchison)
-* <b>April 2024</b> : Cumlaude Award Charter from Rector and Dean of Faculty at Diponegoro University
-* <b>August 2023</b> : Ruangguru Engineering Academy+ Scholarship Awardee in Mastering Artificial Intelligence Batch 1 program.
-* <b>June 2022</b> : 3rd Place in UI/UX Design AGATIS Competition (National Level) by HIMASIF University of Bengkulu
-* <b>June 2022</b> : Machine Learning Developer Middle Level IDCAMP 2022
-* <b>April 2022</b> : 2nd Runner Up VISION National Essay Competition
-* <b>January 2022</b> : Top 30 SejutaCita National Essay Competition
-* <b>December 2021</b> : Top 10 Product Innovation at Banyumas Regency
-* <b>December 2021</b> : Top Talent UI/UX Design Fundamentals by CAMP404
-* <b>November 2021</b> : 2nd Place in Fintech UI/UX Design by Giatinaja
-* <b>November 2021</b> : Alibaba Cloud AI Forward Awardee 2021
-* <b>November 2021</b> : Education Scholarship Awardee 2021 by Dicoding Indonesia
-* <b>November 2021</b> : The Best Teacher in Student Achievement Development at Telkom Schools - Telkom Vocational High School Purwokerto
-* <b>February 2020</b> : The Best Judiciary With Cumlaude in Informatics at Telkom University Purwokerto
+| Date            | Award / Achievement                                                          | Organizer / Institution                     |
+|-----------------|------------------------------------------------------------------------------|---------------------------------------------|
+| March 2026      | Expert Level Scholarship Awardee in AI Engineer                              | IDCamp (Indosat Ooredoo Hutchison)          |
+| February 2026   | Coding Camp Progressive in AI Engineer                                       | DBS Foundation                              |
+| January 2026    | Middle Level Scholarship Awardee in AI Engineer                              | IDCamp (Indosat Ooredoo Hutchison)          |
+| April 2024      | Cumlaude Award Charter                                                       | Diponegoro University                       |
+| August 2023     | Engineering Academy+ Scholarship (AI Batch 1)                                | Ruangguru                                   |
+| June 2022       | 3rd Place UI/UX Design AGATIS Competition (National Level)                   | University of Bengkulu                      |
+| June 2022       | Machine Learning Developer Middle Level                                      | IDCamp 2022                                 |
+| April 2022      | 2nd Runner Up VISION National Essay Competition                              | VISION                                      |
+| January 2022    | Top 30 SejutaCita National Essay Competition                                 | SejutaCita                                  |
+| December 2021   | Top 10 Product Innovation                                                    | Banyumas Regency                            |
+| December 2021   | Top Talent UI/UX Design Fundamentals                                         | CAMP404                                     |
+| November 2021   | 2nd Place Fintech UI/UX Design                                               | Giatinaja                                   |
+| November 2021   | Alibaba Cloud AI Forward Awardee                                             | Alibaba Cloud                               |
+| November 2021   | Education Scholarship Awardee                                                | Dicoding Indonesia                          |
+| November 2021   | Best Teacher in Student Achievement Development                              | Telkom Schools (SMK Telkom Purwokerto)      |
+| February 2020   | Best Judiciary with Cumlaude in Informatics                                  | Telkom University Purwokerto                |
 
 Collaboration Partners
 ======
-* <b>Bina Darma University Palembang</b> with the research title "URL-Based Phishing Detection Using the BERT-LSTM Model" published in SINTA 2 in 2026.
-* <b>Atma Jaya Catholic University Jakarta</b> with the research title "Improved Text Classification for Hate Speech Detection in Indonesia: FastText-LSTM Model with Easy Data Augmentation" published in SINTA 3 in 2026.
-* <b>Wahid Hasyim University Semarang</b> with the national seminar title "Multidisciplinary Synergy in Advancing the Modern Industrial Revolution" as a speaker with the topic raised "Industrial Digitalization, Artificial Intelligence, and Cybersecurity" in 2025.
+| Partner Institution                         | Collaboration / Contribution                                                                 | Output / Publication                  | Year |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------|------|
+| Bina Darma University Palembang            | URL-Based Phishing Detection Using the BERT-LSTM Model                                       | SINTA 2 Journal                      | 2026 |
+| Atma Jaya Catholic University Jakarta      | Hate Speech Detection using FastText-LSTM with Easy Data Augmentation                        | SINTA 3 Journal                      | 2026 |
+| Wahid Hasyim University Semarang           | Speaker: Industrial Digitalization, AI, and Cybersecurity                                    | National Seminar                     | 2025 |
