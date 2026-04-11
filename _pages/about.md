@@ -35,10 +35,11 @@ My research focuses on Artificial Intelligence, with core contributions in Natur
 | March 2026      | Expert Level Scholarship Awardee in AI Engineer                              | IDCamp (Indosat Ooredoo Hutchison)          |
 | February 2026   | Coding Camp Progressive in AI Engineer                                       | DBS Foundation                              |
 | January 2026    | Middle Level Scholarship Awardee in AI Engineer                              | IDCamp (Indosat Ooredoo Hutchison)          |
+| January 2025    | Highest Scorer in the MikroTik Certified Network Associate (MTCNA) Exam      | MikroTik                                    |
 | April 2024      | Cumlaude Award Charter                                                       | Diponegoro University                       |
-| August 2023     | Engineering Academy+ Scholarship (AI Batch 1)                                | Ruangguru                                   |
+| August 2023     | Ruangguru Engineering Academy+ Scholarship (Mastering AI Batch 1)            | Ruangguru                                   |
 | June 2022       | 3rd Place UI/UX Design AGATIS Competition (National Level)                   | University of Bengkulu                      |
-| June 2022       | Machine Learning Developer Middle Level                                      | IDCamp 2022                                 |
+| June 2022       | Middle Level Scholarship Awardee in Machine Learning Developer               | IDCamp (Indosat Ooredoo Hutchison)          |
 | April 2022      | 2nd Runner Up VISION National Essay Competition                              | VISION                                      |
 | January 2022    | Top 30 SejutaCita National Essay Competition                                 | SejutaCita                                  |
 | December 2021   | Top 10 Product Innovation                                                    | Banyumas Regency                            |
