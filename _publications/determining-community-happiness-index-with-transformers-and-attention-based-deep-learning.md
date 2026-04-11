@@ -3,7 +3,7 @@ title: "Determining community happiness index with transformers and attention-ba
 collection: publications
 category: manuscripts
 permalink: /publication/determining-community-happiness-index-with-transformers-and-attention-based-deep-learning
-excerpt: 'Scopus Q3'
+excerpt: 'Scopus Q2'
 date: 2024-04-04
 venue: 'IAES International Journal of Artificial Intelligence (IJ-AI)'
 paperurl: 'https://ijai.iaescore.com/index.php/IJAI/article/view/24030'
