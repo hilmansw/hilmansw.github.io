@@ -5,7 +5,7 @@ type: "Data Science"
 permalink: /teaching/dunia-coding
 venue: "Dunia Coding"
 date: 2025-09-01
-location: "Yogyakarta, Indonesia"
+location: "Yogyakarta, Indonesia (Online)"
 excerpt: ""
 ---
 
