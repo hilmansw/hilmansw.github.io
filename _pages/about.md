@@ -15,18 +15,19 @@ My research focuses on Artificial Intelligence, with core contributions in Natur
 
 ## Competency Certification
 
-| Date            | Certification                                                                 | Issuer                                     |
-|-----------------|------------------------------------------------------------------------------|---------------------------------------------|
-| February 2026   | Gemini Certified Educator                                                    | Google                                      |
-| November 2025   | Certified of Quantum Machine Learning                                        | IBM                                         |
-| May 2025        | IT Specialist - Artificial Intelligence                                      | Certiport - A Pearson VUE Business          |
-| April 2025      | Machine Learning Specialty                                                   | Alibaba Cloud                               |
-| March 2025      | Associate Data Scientist                                                     | BNSP                                        |
-| January 2025    | MikroTik Certified Network Associate (MTCNA)                                 | MikroTik                                    |
-| December 2024   | Developer Generative AI                                                      | Alibaba Cloud                               |
-| December 2024   | Fortinet Certified Associate Cybersecurity                                   | Fortinet                                    |
-| December 2024   | Fortinet Certified Fundamentals Cybersecurity                                | Fortinet                                    |
-| December 2024   | Ruijie Certified Network Associate (Routing & Switching)                     | Ruijie                                      |
+| Date            | Certification                                                                | Issuer                                      |
+|-----------------|--------------------------------------------------------------------|-------------------------------------------------------|
+| July 2026       | Dev Certified for Machine Learning with TensorFlow (DCML)          | Dev.cert by Dev.id (IDCamp 2025 Scholarship Program)  |
+| February 2026   | Gemini Certified Educator                                          | Google                                                |
+| November 2025   | Certified of Quantum Machine Learning                              | IBM                                                   |
+| May 2025        | IT Specialist - Artificial Intelligence                            | Certiport - A Pearson VUE Business                    |
+| April 2025      | Machine Learning Specialty                                         | Alibaba Cloud                                         |
+| March 2025      | Associate Data Scientist                                           | BNSP                                                  |
+| January 2025    | MikroTik Certified Network Associate (MTCNA)                       | MikroTik                                              |
+| December 2024   | Developer Generative AI                                            | Alibaba Cloud                                         |
+| December 2024   | Fortinet Certified Associate Cybersecurity                         | Fortinet                                              |
+| December 2024   | Fortinet Certified Fundamentals Cybersecurity                      | Fortinet                                              |
+| December 2024   | Ruijie Certified Network Associate (Routing & Switching)           | Ruijie                                                |
 
 ## Honors & Awards
 
