@@ -19,3 +19,6 @@ concluded by emphasizing that the future of public service will not only depend 
 of civil servants to leverage AI responsibly, effectively, and for the benefit of society.
 
 <img src="/images/webinar-kamis-belajar.jpeg" />
+
+<b>Hilman Singgih Wicaksana</b><br/>
+<i>Lecturer and Researcher in Artificial Intelligence</i>
