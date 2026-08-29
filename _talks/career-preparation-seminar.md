@@ -2,7 +2,7 @@
 title: "The Rise of AI Era: Smart Technology Transformation as a Career Development Opportunity in the Digital Age "
 collection: seminar
 type: "Seminar"
-permalink: /talks/seminar-persiapan-karier-tup
+permalink: /talks/career-preparation-seminar-tup
 venue: "Telkom University Purwokerto"
 date: 2026-06-06
 location: "Telkom University Purwokerto"
