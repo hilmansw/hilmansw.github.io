@@ -21,3 +21,6 @@ to transform data into meaningful insights and impactful solutions.
 <img src="/images/ristie-ub.png" /><br/>
 <br/>
 <img src="/images/ristie-ub-2.png" />
+
+<b>Hilman Singgih Wicaksana</b><br/>
+<i>Lecturer and Researcher in Artificial Intelligence</i>
