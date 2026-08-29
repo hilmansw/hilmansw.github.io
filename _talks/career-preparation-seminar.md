@@ -16,4 +16,8 @@ in an increasingly technology-driven workforce. Participants were encouraged to 
 adaptability, and explore how AI can create meaningful opportunities across various industries. The session concluded by emphasizing that AI should 
 not be viewed as a replacement for human capabilities, but as a technology that can empower individuals to solve problems and create a meaningful impact.
 
-<img src="/images/seminar-persiapan-karier-tup.jpg" />
+<img src="/images/swu.jpg" /><br/>
+<br/>
+<img src="/images/swu-2.jpg" /><br/>
+<br/>
+<img src="/images/swu-3.jpg" />
