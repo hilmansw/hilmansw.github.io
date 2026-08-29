@@ -8,9 +8,7 @@ date: 2025-10-03
 location: "Online"
 ---
 
-I had the opportunity to be a speaker at a data science workshop organized by Dunia Coding, which used a machine learning approach.<br/>
-<br/>
-At the workshop, I explained how to create a machine learning algorithm, optimize the model using specific hyperparameter tuning, evaluate the built model, and deploy the model using a Streamlit-based website so that it can be used directly to perform inferencing on input provided by users.
+Honored to speak at a Data Science Workshop organized by Dunia Coding, attended by more than 25 participants. The workshop explored the end-to-end process of building a Machine Learning application, from developing a predictive model to preparing it for real-world use. The session covered the development of Machine Learning algorithms, model optimization through hyperparameter tuning, and performance evaluation to ensure the model produces reliable results. Participants also gained practical experience in deploying the trained model through a Streamlit-based web application, allowing users to perform predictions directly using their own input. The workshop concluded by emphasizing the importance of understanding the complete Machine Learning workflow, as building a model is only one part of developing an effective and usable AI solution.
 
 <img src="/images/workshop-data-science.png" /><br/>
 <br/>
