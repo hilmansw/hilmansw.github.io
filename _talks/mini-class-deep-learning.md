@@ -16,6 +16,9 @@ The session highlighted that learning Deep Learning is not only about training m
 deploy, and transform them into functional solutions. Participants were encouraged to continue experimenting, learning from failures, 
 and developing their skills to create impactful applications in the field of Natural Language Processing (NLP).
 
-<img src="/images/mini-class-deep-learning.png" /><br/>
+<img src="/images/mini-class-deep-learning.jpg" /><br/>
 <br/>
-<img src="/images//mini-class-deep-learning-2.png" />
+<img src="/images/mini-class-deep-learning-2.jpg" />
+
+<b>Hilman Singgih Wicaksana</b><br/>
+<i>Lecturer and Researcher in Artificial Intelligence</i>
