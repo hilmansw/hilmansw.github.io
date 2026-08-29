@@ -17,3 +17,6 @@ by building relevant skills, developing meaningful portfolios, and demonstrating
 <img src="/images/webinar-data-science-di-era-ai.png" /><br/>
 <br/>
 <img src="/images/webinar-data-science-di-era-ai-2.png" />
+
+<b>Hilman Singgih Wicaksana</b><br/>
+<i>Lecturer and Researcher in Artificial Intelligence</i>
