@@ -8,6 +8,6 @@ date: 2025-07-15
 location: "Semarang City, Central Java, Indonesia"
 ---
 
-Speaking at a community service event for students of the Faculty of Law, Management, and Informatics at Karya Husada University in Semarang on how we can use AI while still prioritizing ethics so as not to violate the law and not abuse technological advances for irresponsible actions.
+Honored to speak at a community service workshop attended by dozens of students from the Faculty of Law, Management, and Informatics at Universitas Karya Husada Semarang. The session explored how Artificial Intelligence can be utilized responsibly while maintaining ethical awareness and compliance with legal principles. The discussion highlighted the importance of understanding both the opportunities and potential risks of AI, particularly in preventing the misuse of technology for irresponsible or harmful purposes. Participants were encouraged to develop a critical and responsible approach to using AI while considering its ethical, legal, and social implications. The session concluded by emphasizing that technological advancement should be accompanied by strong human values, ethical responsibility, and a commitment to using AI for meaningful and positive purposes.
 
 <img src="/images/pengabmas-unkaha.jpg" />
