@@ -22,3 +22,6 @@ and make a positive contribution to society.
 <img src="/images/swu-2.jpg" /><br/>
 <br/>
 <img src="/images/swu-3.jpg" />
+
+<b>Hilman Singgih Wicaksana</b><br/>
+<i>Lecturer and Researcher in Artificial Intelligence</i>
