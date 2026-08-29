@@ -18,3 +18,6 @@ emphasizing that the future of AI will not only be determined by how advanced th
 organizations, and society.
 
 <img src="/images/webinar-trustworthy-ai.jpg" />
+
+<b>Hilman Singgih Wicaksana</b><br/>
+<i>Lecturer and Researcher in Artificial Intelligence</i>
