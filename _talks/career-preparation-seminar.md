@@ -1,5 +1,5 @@
 ---
-title: "The Rise of AI Era: Smart Technology Transformation as a Career Development Opportunity in the Digital Age "
+title: "The Rise of AI Era: Smart Technology Transformation as a Career Development Opportunity in the Digital Age"
 collection: seminar
 type: "Seminar"
 permalink: /talks/career-preparation-seminar-tup
