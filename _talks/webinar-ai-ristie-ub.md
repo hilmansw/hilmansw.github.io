@@ -3,9 +3,9 @@ title: "Industrial Transformation Through Artificial Intelligence: Data Science 
 collection: webinar
 type: "Webinar"
 permalink: /talks/webinar-ai-ristie-ub
-venue: "Zoom"
+venue: "Brawijaya University"
 date: 2026-08-29
-location: "Online"
+location: "Online (Zoom)"
 ---
 
 Honored to speak at a webinar titled "Industrial Transformation Through Artificial Intelligence: Data Science as the Foundation 
