@@ -5,7 +5,7 @@ type: "Webinar"
 permalink: /talks/webinar-trustworthy-ai
 venue: "Universitas Katolik Indonesia Atma Jaya Jakarta"
 date: 2026-07-10
-location: "Universitas Katolik Indonesia Atma Jaya Jakarta"
+location: "Online (Zoom)"
 ---
 
 Honored to speak at a webinar on “Trustworthy AI” organized by the Student Association of Information Systems at Atma Jaya Catholic University 
