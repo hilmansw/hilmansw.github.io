@@ -8,7 +8,7 @@ date: 2025-09-03
 location: "Online"
 ---
 
-I had the opportunity to be a speaker at a webinar on Data Science and Artificial Intelligence (AI), where data is the “fuel” of AI that can be used to make business decisions for an organization or company. This webinar was organized by Dunia Coding and attended by more than 100 participants from various backgrounds, ranging from students and academics to practitioners with backgrounds in computer science and other disciplines.
+Honored to speak at a webinar on Data Science and Artificial Intelligence (AI) organized by Dunia Coding, attended by more than 100 participants from diverse backgrounds, including students, academics, and professionals from computer science and other disciplines. The session explored the fundamental role of data as the fuel that powers Artificial Intelligence and enables organizations to make more informed, data-driven business decisions. The discussion highlighted how the combination of Data Science and AI can transform raw data into valuable insights and intelligent solutions. Participants were encouraged to understand the importance of data as a foundation for developing AI systems and driving innovation across various industries.
 
 <img src="/images/webinar-data-science.png" /><br/>
 <br/>
