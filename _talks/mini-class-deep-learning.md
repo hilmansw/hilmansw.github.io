@@ -3,9 +3,9 @@ title: "NLP for Beginners: Build an Anti-Spam AI Using Deep Learning"
 collection: mini-class
 type: "Mini Class"
 permalink: /talks/mini-class-deep-learning
-venue: "Google Meet"
+venue: "Dunia Coding"
 date: 2025-11-23
-location: "Online"
+location: "Online (Google Meet)"
 ---
 
 Honored to speak at the Mini Class Deep Learning organized by Dunia Coding, where participants explored the end-to-end process of building 
