@@ -5,7 +5,7 @@ type: "Seminar"
 permalink: /talks/career-preparation-seminar-tup
 venue: "Telkom University Purwokerto"
 date: 2026-06-06
-location: "Telkom University Purwokerto"
+location: "Offline"
 ---
 
 Honored to speak at the Career Preparation Seminar organized by the Student Association of Electrical Engineering, Telkom University Purwokerto, 
