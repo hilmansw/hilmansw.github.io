@@ -2,7 +2,7 @@
 title: "Gen Z & Artificial Intelligence: Maximizing Productivity and Creativity with AI"
 collection: seminar
 type: "Seminar"
-permalink: /talks/seminar-nasional-swu
+permalink: /talks/national-seminar-swu
 venue: "STMIK Widya Utama Purwokerto"
 date: 2026-07-25
 location: "STMIK Widya Utama Purwokerto"
