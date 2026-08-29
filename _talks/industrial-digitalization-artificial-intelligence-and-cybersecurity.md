@@ -17,3 +17,6 @@ Honored to speak at the National Seminar titled "Multidisciplinary Synergy in Ad
 <img src="/images/semnas-unwahas-3.png" /><br/>
 <br/>
 <img src="/images/semnas-unwahas-4.png" />
+
+<b>Hilman Singgih Wicaksana</b><br/>
+<i>Lecturer and Researcher in Artificial Intelligence</i>
