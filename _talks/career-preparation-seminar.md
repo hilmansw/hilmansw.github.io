@@ -17,3 +17,6 @@ adaptability, and explore how AI can create meaningful opportunities across vari
 not be viewed as a replacement for human capabilities, but as a technology that can empower individuals to solve problems and create a meaningful impact.
 
 <img src="/images/seminar-persiapan-karier-tup.jpg" />
+
+<b>Hilman Singgih Wicaksana</b><br/>
+<i>Lecturer and Researcher in Artificial Intelligence</i>
