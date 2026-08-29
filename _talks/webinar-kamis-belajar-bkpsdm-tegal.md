@@ -5,7 +5,7 @@ type: "Webinar"
 permalink: /talks/webinar-kamis-belajar-bkpsdm-tegal
 venue: "BKPSDM Kabupaten Tegal"
 date: 2026-08-06
-location: "Online"
+location: "Online (Zoom)"
 ---
 
 Honored to speak at the Kamis Belajar Webinar organized by BKPSDM Kabupaten Tegal, attended by more than 500 participants 
