@@ -4,7 +4,7 @@ collection: mini-class
 type: "Mini Class"
 permalink: /talks/mini-class-deep-learning
 venue: "Google Meet"
-date: 2026-01-20
+date: 2025-01-23
 location: "Online"
 ---
 
