@@ -15,3 +15,6 @@ Honored to speak at a Data Science Workshop organized by Dunia Coding, attended 
 <img src="/images/workshop-data-science-2.png" /><br/>
 <br/>
 <img src="/images/workshop-data-science-3.png" />
+
+<b>Hilman Singgih Wicaksana</b><br/>
+<i>Lecturer and Researcher in Artificial Intelligence</i>
