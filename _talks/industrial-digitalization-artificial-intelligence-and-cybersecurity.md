@@ -8,11 +8,7 @@ date: 2025-10-25
 location: "Offline"
 ---
 
-I had the opportunity to be a speaker at a national seminar organized by the Student Executive Board (BEM) of the Faculty of Engineering, Wahid Hasyim University, with a seminar titled “Multidisciplinary Synergy in Advancing the Modern Industrial Revolution.”<br/>
-<br/>
-At the seminar, I explained how industries will massively use Artificial Intelligence (AI) technology as a major contributing factor in digital transformation in all sectors, including healthcare, education, energy, and cybersecurity.<br/>
-<br/>
-Therefore, in the future, AI must remain under our control so that it continues to be based on ethical use and avoids irresponsible actions.<br/>
+Honored to speak at the National Seminar titled "Multidisciplinary Synergy in Advancing the Modern Industrial Revolution", organized by the Student Executive Board of the Faculty of Engineering at Wahid Hasyim University and attended by more than 90 participants through both online and offline sessions. The session, titled "Industrial Digitalization, Artificial Intelligence, and Cybersecurity", explored the growing role of digital transformation, AI, and cybersecurity in shaping the future of modern industries. The discussion highlighted how Artificial Intelligence is becoming a key driver of transformation across various sectors, including healthcare, education, energy, and cybersecurity, while also emphasizing the importance of protecting digital systems in an increasingly connected world. Participants were encouraged to understand the opportunities and risks associated with emerging technologies and to develop the knowledge and skills needed to adapt to the evolving industrial landscape. The session concluded by emphasizing that technological advancement must be accompanied by ethical responsibility, human oversight, and responsible AI implementation to ensure that innovation continues to create meaningful and sustainable benefits for society.
 
 <img src="/images/semnas-unwahas-1.png" /><br/>
 <br/>
