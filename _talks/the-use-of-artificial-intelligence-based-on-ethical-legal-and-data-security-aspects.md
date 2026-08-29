@@ -3,7 +3,7 @@ title: "The Use of Artificial Intelligence Based on Ethical, Legal, and Data Sec
 collection: community service
 type: "Community Services"
 permalink: /talks/the-use-of-artificial-intelligence-based-on-ethical-legal-and-data-security-aspects
-venue: "Karya Husada University"
+venue: "Universitas Karya Husada"
 date: 2025-07-15
 location: "Offline"
 ---
