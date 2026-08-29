@@ -1,10 +1,10 @@
 ---
-title: "NLP for Beginners: Bangun AI Anti-Spam Pakai Deep Learning"
+title: "NLP for Beginners: Build an Anti-Spam AI Using Deep Learning"
 collection: mini-class
 type: "Mini Class"
 permalink: /talks/mini-class-deep-learning
 venue: "Google Meet"
-date: 2025-09-03
+date: 2026-01-20
 location: "Online"
 ---
 
