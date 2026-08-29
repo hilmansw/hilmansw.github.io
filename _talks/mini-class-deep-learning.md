@@ -14,7 +14,7 @@ the development of an LSTM-based spam detection portfolio. Through hands-on prac
 participants gained practical experience in building and improving Deep Learning models from scratch to real-world applications. 
 The session highlighted that learning Deep Learning is not only about training models but also about understanding how to optimize, 
 deploy, and transform them into functional solutions. Participants were encouraged to continue experimenting, learning from failures, 
-and developing their skills to create impactful applications in the field of Natural Language Processing (NLP).
+and developing their skills to create impactful applications in the field of Natural Language Processing.
 
 <img src="/images/mini-class-deep-learning.jpg" /><br/>
 <br/>
