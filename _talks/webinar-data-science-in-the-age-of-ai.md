@@ -3,9 +3,9 @@ title: "Learning Data Science in the Age of AI: What Skills Will the Industry St
 collection: webinar
 type: "Webinar"
 permalink: /talks/webinar-data-science-in-the-age-of-ai
-venue: "Google Meet"
+venue: "Dunia Coding"
 date: 2026-01-20
-location: "Online"
+location: "Online (Zoom)"
 ---
 
 Honored to speak at a webinar titled “Learning Data Science in the Age of AI: What Skills Will the Industry Still Be Looking for in 2026?”, attended by more than 
