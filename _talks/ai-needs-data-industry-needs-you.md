@@ -14,5 +14,5 @@ Honored to speak at a webinar on Data Science and Artificial Intelligence (AI) o
 <br/>
 <img src="/images/webinar-data-science-2.png" />
 
-<b>Hilman Singgih Wicaksana</b>
+<b>Hilman Singgih Wicaksana</b><br/>
 <i>Data Science Mentor at Dunia Coding</i>
