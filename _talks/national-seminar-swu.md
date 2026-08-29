@@ -5,7 +5,7 @@ type: "Seminar"
 permalink: /talks/national-seminar-swu
 venue: "STMIK Widya Utama Purwokerto"
 date: 2026-07-25
-location: "STMIK Widya Utama Purwokerto"
+location: "Offline"
 ---
 
 Honored to speak at the National Seminar titled "Gen Z & Artificial Intelligence: Maximizing Productivity and Creativity with AI", 
