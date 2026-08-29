@@ -8,7 +8,7 @@ date: 2026-07-25
 location: "STMIK Widya Utama Purwokerto"
 ---
 
-Honored to speak at the National Seminar titled “Gen Z & Artificial Intelligence: Maximizing Productivity and Creativity with AI,” 
+Honored to speak at the National Seminar titled "Gen Z & Artificial Intelligence: Maximizing Productivity and Creativity with AI", 
 organized by the Student Association of the Information Systems Study Program at STMIK Widya Utama Purwokerto. The session explored how 
 Artificial Intelligence can be utilized responsibly to enhance productivity, creativity, and readiness for the rapidly evolving digital 
 workplace. The discussion highlighted the importance of understanding AI beyond its growing popularity, using it to support learning and 
