@@ -22,7 +22,7 @@ how to deploy the trained model using Streamlit and transform it into a simple, 
 <br/>
 <img src="/images/mini-class-practical-ml-gambling-detection-4.png" /><br/>
 <br/>
-<b>Demo Prograam</b> <a href="https://gamblingdetectionapp-hsw.streamlit.app/">https://gamblingdetectionapp-hsw.streamlit.app/</a></br>
+<b>Demo Program:</b> <a href="https://gamblingdetectionapp-hsw.streamlit.app/">https://gamblingdetectionapp-hsw.streamlit.app/</a><br/>
 <br/>
 
 <b>Hilman Singgih Wicaksana</b><br/>
